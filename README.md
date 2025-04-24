@@ -29,7 +29,7 @@ Many food delivery platforms do not provide clear filters or prompts for allergi
 ## 🔗 View the Project
 
 [Figma Project Link](https://www.figma.com/design/FL9VL10BG8VnBXhrcp6la0/Group-19-Final-Design-Project?node-id=0-1&t=NkeppPWdm6o5Ii6K-1)  
-[Figma Project Preview Link](https://www.figma.com/design/FL9VL10BG8VnBXhrcp6la0/Group-19-Final-Design-Project?node-id=0-1&t=NkeppPWdm6o5Ii6K-1](https://www.figma.com/proto/FL9VL10BG8VnBXhrcp6la0/Group-19-Final-Design-Project?node-id=1-2&p=f&t=NrrHdrnnOQ2KbY4v-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)  
+[Figma Project Preview Link](https://www.figma.com/proto/FL9VL10BG8VnBXhrcp6la0/Group-19-Final-Design-Project?node-id=1-2&p=f&t=NrrHdrnnOQ2KbY4v-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 
 ---
 
